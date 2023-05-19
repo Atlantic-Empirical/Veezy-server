@@ -1,2 +1,0 @@
-# Veezy-server
- 

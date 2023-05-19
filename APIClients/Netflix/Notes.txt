@@ -1,0 +1,23 @@
+﻿Layer 1
+	NetflixUrls
+		These generate the raw users. They are constants or fill-in-the-blank style functions
+		These are not signed, that is handled in a higher level
+
+Layer 2
+	NetflixConnection
+		This provides token generation and url signing
+		
+	Request Token
+	
+	Access Token
+	
+Layer 3
+	Catalog
+		Raw information from the catalog
+	User
+		Raw information on the user
+		
+Layer 4
+	Object Models for Catalog and User
+
+
