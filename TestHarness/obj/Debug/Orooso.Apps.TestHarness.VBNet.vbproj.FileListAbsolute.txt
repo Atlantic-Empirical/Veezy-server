@@ -1,1 +1,0 @@
-C:\CODE\orooso-server\TestHarness\bin\Debug\Orooso.Apps.TestHarness.exe.config
